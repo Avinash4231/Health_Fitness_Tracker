@@ -74,6 +74,59 @@ A comprehensive health and fitness tracking application built with **ReactJS** o
 
 ### Frontend (ReactJS)
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/Health_Fitness_Tracker.git
    cd Health_Fitness_Tracker/frontend
+   ```
+2. Install dependencies:
+```
+npm install
+```
+3. Run the React development server:
+```
+npm start
+```
+The frontend will be accessible at http://localhost:3000.
+
+### Backend (.NET Core)
+1. Clone the repository:
+```
+git clone https://github.com/your-username/Health_Fitness_Tracker.git
+cd Health_Fitness_Tracker/backend
+```
+2. Restore dependencies and build the project:
+```
+dotnet restore
+dotnet build
+```
+3. Run the backend server:
+```
+dotnet run
+```
+The backend will be accessible at http://localhost:5129.
+
+### OTP Verification
+OTP verification for user registration and password reset is handled via email. Ensure your email configuration is properly set up in the backend to enable OTP generation and validation.
+
+### Email Configuration
+In the backend, you need to configure the email service to send OTPs and weekly progress reports. For personal use, you can provide the email and password in the configuration. Important: Encrypt these credentials and never expose them in your source code.
+
+## Technologies Used
+- Frontend: ReactJS
+- Backend: .NET Core
+- Database: (Specify your database like SQL Server, MySQL, etc.)
+- Authentication: OTP via Email
+- Email Service: (Specify your email service, e.g., SMTP, SendGrid)
+
+## Contributing
+We welcome contributions! If you'd like to contribute to this project, please fork the repository, create a new branch, make your changes, and then create a pull request. Ensure that your code follows the project's coding standards and includes tests where appropriate.
+
+## Guidelines:
+- Use descriptive commit messages.
+- Follow the existing code style.
+- Make sure the tests pass before submitting a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
