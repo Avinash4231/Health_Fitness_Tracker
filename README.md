@@ -75,8 +75,8 @@ A comprehensive health and fitness tracking application built with **ReactJS** o
 ### Frontend (ReactJS)
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Health_Fitness_Tracker.git
-   cd Health_Fitness_Tracker/frontend
+   git clone https://github.com/Avinash4231/Health_Fitness_Tracker.git
+   cd Health_Fitness_Tracker/client
    ```
 2. Install dependencies:
 ```
@@ -91,8 +91,8 @@ The frontend will be accessible at http://localhost:3000.
 ### Backend (.NET Core)
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/Health_Fitness_Tracker.git
-cd Health_Fitness_Tracker/backend
+git clone https://github.com/Avinash4231/Health_Fitness_Tracker.git
+cd Health_Fitness_Tracker/FullStackApp
 ```
 2. Restore dependencies and build the project:
 ```
