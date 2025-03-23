@@ -2,6 +2,10 @@
 
 A comprehensive health and fitness tracking application built with **ReactJS** on the frontend and **.NET Core** for the backend. This platform allows users to track workouts, progress, and manage their fitness goals, while also providing an admin dashboard for user management and analytics.
 
+## Demo
+https://github.com/user-attachments/assets/9dc3792a-710e-477b-b950-2cd406273975
+
+
 ## Features
 
 ### 1. **User Authentication**
