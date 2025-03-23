@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FullStackApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\controllers\\userworkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\controllers\\userworkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\controllers\\progresstrackingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\controllers\\progresstrackingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullStackApp\\FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\migrations\\20250320041948_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\migrations\\20250320041948_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\services\\progresstrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\services\\progresstrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\models\\userworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\models\\userworkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\models\\progresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\models\\progresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\models\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\models\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\fullstackapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\fullstackapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|d:\\fullstackapp\\fullstackapp\\migrations\\20250314092435_adduserworkoutandprogresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C25A73-8FC8-492C-9470-E9E144B7C8AF}|FullStackApp\\FullStackApp.csproj|solutionrelative:fullstackapp\\migrations\\20250314092435_adduserworkoutandprogresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "qraacxdz.sql",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql",
+              "RelativeDocumentMoniker": "FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql",
+              "RelativeToolTip": "FullStackApp\\obj\\Debug\\net8.0\\qraacxdz.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T04:26:34.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250320041948_MigrationName.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Migrations\\20250320041948_MigrationName.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Migrations\\20250320041948_MigrationName.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Migrations\\20250320041948_MigrationName.cs",
+              "RelativeToolTip": "FullStackApp\\Migrations\\20250320041948_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:20:27.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressTrackingsController.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Controllers\\ProgressTrackingsController.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Controllers\\ProgressTrackingsController.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Controllers\\ProgressTrackingsController.cs",
+              "RelativeToolTip": "FullStackApp\\Controllers\\ProgressTrackingsController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:23:54.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FullStackApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:17:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWorkoutsController.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Controllers\\UserWorkoutsController.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Controllers\\UserWorkoutsController.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Controllers\\UserWorkoutsController.cs",
+              "RelativeToolTip": "FullStackApp\\Controllers\\UserWorkoutsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:22:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FullStackApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:30:12.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Services\\IAuthService.cs",
+              "RelativeToolTip": "FullStackApp\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:11:11.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Services\\AuthService.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "FullStackApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:17:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Models\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Models\\LogoutRequest.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Models\\LogoutRequest.cs",
+              "RelativeToolTip": "FullStackApp\\Models\\LogoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:38:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgressTrackingService.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Services\\ProgressTrackingService.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Services\\ProgressTrackingService.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Services\\ProgressTrackingService.cs",
+              "RelativeToolTip": "FullStackApp\\Services\\ProgressTrackingService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:14:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Models\\Users.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Models\\Users.cs",
+              "RelativeToolTip": "FullStackApp\\Models\\Users.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:52:10.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgressTracking.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Models\\ProgressTracking.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Models\\ProgressTracking.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Models\\ProgressTracking.cs",
+              "RelativeToolTip": "FullStackApp\\Models\\ProgressTracking.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:20:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserWorkout.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Models\\UserWorkout.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Models\\UserWorkout.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Models\\UserWorkout.cs",
+              "RelativeToolTip": "FullStackApp\\Models\\UserWorkout.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:49:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "FullStackApp\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:06:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "FullStackApp\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:05:16.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Data\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Data\\EFCoreDbContext.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Data\\EFCoreDbContext.cs",
+              "RelativeToolTip": "FullStackApp\\Data\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:06:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Services\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Services\\JwtSettings.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Services\\JwtSettings.cs",
+              "RelativeToolTip": "FullStackApp\\Services\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:22:14.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStackApp\\appsettings.json",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\appsettings.json",
+              "RelativeToolTip": "FullStackApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T06:03:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Program.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Program.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Program.cs",
+              "RelativeToolTip": "FullStackApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:04:34.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250314092435_AddUserWorkoutAndProgressTracking.cs",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\Migrations\\20250314092435_AddUserWorkoutAndProgressTracking.cs",
+              "RelativeDocumentMoniker": "FullStackApp\\Migrations\\20250314092435_AddUserWorkoutAndProgressTracking.cs",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\Migrations\\20250314092435_AddUserWorkoutAndProgressTracking.cs",
+              "RelativeToolTip": "FullStackApp\\Migrations\\20250314092435_AddUserWorkoutAndProgressTracking.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:24:38.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FullStackApp.csproj",
+              "DocumentMoniker": "D:\\FullStackApp\\FullStackApp\\FullStackApp.csproj",
+              "RelativeDocumentMoniker": "FullStackApp\\FullStackApp.csproj",
+              "ToolTip": "D:\\FullStackApp\\FullStackApp\\FullStackApp.csproj",
+              "RelativeToolTip": "FullStackApp\\FullStackApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T05:52:13.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
